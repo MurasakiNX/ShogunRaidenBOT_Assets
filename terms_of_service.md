@@ -1,10 +1,10 @@
-# Terms of Use for Shogun Raiden
+# Terms of Service for Shogun Raiden
 
 **Effective Date: July 16, 2024**
 
 ## 1. Acceptance of Terms
 
-By using Shogun Raiden ("the Bot"), you agree to comply with these terms of use. If you do not agree to these terms, please do not use the Bot.
+By using Shogun Raiden ("the Bot"), you agree to comply with these terms of service. If you do not agree to these terms, please do not use the Bot.
 
 ## 2. Use of the Bot
 
@@ -20,7 +20,7 @@ We are not liable for any direct or indirect damages resulting from the use of t
 
 ## 5. Changes to the Terms
 
-We reserve the right to modify these terms of use at any time. Changes will be posted on this page with an update date. By continuing to use the Bot after changes, you agree to the new terms.
+We reserve the right to modify these terms of service at any time. Changes will be posted on this page with an update date. By continuing to use the Bot after changes, you agree to the new terms.
 
 ## 6. Termination
 
@@ -28,9 +28,9 @@ We reserve the right to suspend or terminate your access to the Bot at any time,
 
 ## 7. Contact
 
-For any questions regarding these terms of use, please contact us via direct message (DM) on Discord or through our Discord server: [Shogun Raiden Discord Server](https://discord.com/invite/9HYz3PdspC).
+For any questions regarding these terms of service, please contact us via direct message (DM) on Discord or through our Discord server: [Shogun Raiden Discord Server](https://discord.com/invite/9HYz3PdspC).
 
-These terms of use are effective as of July 16, 2024.
+These terms of service are effective as of July 16, 2024.
 
 # Conditions d'Utilisation de Shogun Raiden
 
