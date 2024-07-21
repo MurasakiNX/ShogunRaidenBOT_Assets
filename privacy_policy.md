@@ -1,6 +1,6 @@
 # Privacy Policy for Shogun Raiden
 
-**Effective Date: July 16, 2024**
+**Effective Date: July 21, 2024**
 
 ## 1. Introduction
 
@@ -18,7 +18,7 @@ We collect the following types of information:
 
 The collected information is used to:
 
-- Provide and improve tools for players and streamers of Genshin Impact and Honkai: Star Rail.
+- Provide and improve tools for players and streamers of Genshin Impact, Honkai: Star Rail and Zenless Zone Zerro.
 - Ensure the security and proper functioning of Shogun Raiden.
 - Analyze usage and trends to improve our services.
 
@@ -46,11 +46,11 @@ We reserve the right to update this privacy policy at any time. Changes will be 
 
 For any questions regarding this privacy policy, please contact us via direct message (DM) on Discord or through our Discord server: [Shogun Raiden Discord Server](https://discord.com/invite/9HYz3PdspC).
 
-This privacy policy is effective as of July 16, 2024.
+This privacy policy is effective as of July 21, 2024.
 
 # Politique de Confidentialité de Shogun Raiden
 
-**Date d'entrée en vigueur : 16 juillet 2024**
+**Date d'entrée en vigueur : 21 juillet 2024**
 
 ## 1. Introduction
 
@@ -68,7 +68,7 @@ Nous collectons les types d'informations suivants :
 
 Les informations collectées sont utilisées pour :
 
-- Fournir et améliorer les outils pour les joueurs et streamers de Genshin Impact et Honkai: Star Rail.
+- Fournir et améliorer les outils pour les joueurs et streamers de Genshin Impact, Honkai: Star Rail et Zenless Zone Zero.
 - Assurer la sécurité et le bon fonctionnement de Shogun Raiden.
 - Analyser l'utilisation et les tendances pour améliorer nos services.
 
@@ -96,4 +96,4 @@ Nous nous réservons le droit de mettre à jour cette politique de confidentiali
 
 Pour toute question concernant cette politique de confidentialité, veuillez nous contacter via message privé (MP) sur Discord ou à travers notre serveur Discord : [Shogun Raiden Discord Server](https://discord.com/invite/9HYz3PdspC).
 
-Cette politique de confidentialité est effective à partir du 16 juillet 2024.
+Cette politique de confidentialité est effective à partir du 21 juillet 2024.
