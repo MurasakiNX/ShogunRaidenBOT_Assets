@@ -18,7 +18,7 @@ We collect the following types of information:
 
 The collected information is used to:
 
-- Provide and improve tools for players and streamers of Genshin Impact, Honkai: Star Rail and Zenless Zone Zerro.
+- Provide and improve tools for players and streamers of Genshin Impact, Honkai: Star Rail and Zenless Zone Zero.
 - Ensure the security and proper functioning of Shogun Raiden.
 - Analyze usage and trends to improve our services.
 
